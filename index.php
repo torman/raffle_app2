@@ -26,7 +26,7 @@
 				value= <?php echo $_POST["contestant4"] ?>> <br>
 			<input type='submit' value='Pick a winner!'><br>
 		</form>
-
+		</br></br>
 
 	
 		The winning number is <?php echo $winning_num ?>
